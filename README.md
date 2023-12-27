@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricEsajian
 - 👀 I’m interested in Supply Chain and Data Science through the use of Python and AWS tools
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning xAPI
 - 💞️ I’m looking to collaborate on side project in that space
 - 📫 How to reach me: quantumprophetdeveloper@gmail.com
 

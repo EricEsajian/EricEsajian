@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EricEsajian
+- 👋 Hi, I’m @EricEsajian, I am currently creatng a Udemy Course!
 - 👀 I’m interested in Supply Chain and Data Science through the use of Python and AWS tools
 - 🌱 I’m currently learning Prompt Engineering
 - 💞️ I’m looking to collaborate on side project in that space

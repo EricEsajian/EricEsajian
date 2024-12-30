@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Eric Esajian, I am currently creatng a Udemy Courses!
+- 👋 Hi, my name is Eric Esajian, I am currently creatng Udemy Courses!
 - 👀 I’m interested in Supply Chain and Data Science through the use of Python and AWS tools. Anything forecasting or predictive analytics is my jam!
 - 🌱 I’m currently learning how to build software for my drones
 - 💞️ I’m looking to collaborate on side projects in that space and partner on publishing scienctific papers
